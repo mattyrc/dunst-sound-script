@@ -4,7 +4,7 @@ appname="$1"
 summary="$2"
 body="$3"
 
-AUDIO_DIR=$HOME/.scripts/dunst/audio_files
+AUDIO_DIR=$HOME/.scripts/dunst/dunst-sound/audio_files
 
 # Convert match to lowercase
 appname_case=$(echo "$appname" | tr '[:upper:]' '[:lower:]')
