@@ -339,7 +339,7 @@
     background = "#13191d"
     foreground = "#d4d4d4"
     timeout = 10
-    #script = /home/matt/.scripts/dunst_sound/alert.sh
+    #script = $HOME/.scripts/dunst_sound/alert.sh
     # Icon for notifications with normal urgency, uncomment to enable
     #icon = /path/to/icon
 
